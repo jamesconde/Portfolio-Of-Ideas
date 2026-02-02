@@ -6,9 +6,7 @@
 
 ## About This Repository
 
-This repository contains a curated collection of original research papers, articles, and theoretical frameworks developed by James Conde. The work centers on the **Monopole-Entropy Framework** -- a unified theoretical approach connecting magnetic monopoles, entropy dynamics, and emergent phenomena across physics, neuroscience, consciousness, biology, and artificial intelligence.
-
-The framework proposes that magnetic monopoles serve as fundamental mediators of entropy transitions, providing a common mathematical language for phenomena ranging from superconductivity and cosmology to consciousness and evolution. Each document in this repository explores a different facet of this unifying idea.
+This repository contains a curated collection of original research papers, articles, and theoretical frameworks developed by James Conde. The work centers on the **Monopole-Entropy Framework** -- a speculative theoretical approach exploring connections between magnetic monopoles, entropy dynamics, and emergent phenomena in physics and related domains.
 
 ---
 
@@ -20,28 +18,17 @@ The foundational documents describing the Monopole-Entropy Framework and its mat
 
 | Document | Description |
 |----------|-------------|
-| [All Themes Combined (Final Revised)](core-framework/Monopole_Framework_All_Themes_Combined_FINAL_Revised.pdf) | Comprehensive document integrating all eleven thematic domains into a single unified framework |
 | [Alpha Space Mathematical Formulation (Extended)](core-framework/Alpha_Space_Mathematical_Formulation_Extended.pdf) | Extended mathematical formulation of Alpha Space -- the topological configuration space for monopole-entropy dynamics |
-| [Detailed Overview](core-framework/Detailed_Overview_Monopole_Entropy_Framework.pdf) | In-depth overview of the framework's core concepts, assumptions, and theoretical grounding |
 | [Simple Explanation](core-framework/Simple_Explanation_Monopole_Entropy_Framework.pdf) | Accessible summary of the framework for a general audience |
 | [White Paper: Magnetic Monopoles](core-framework/White_Paper_Magnetic_Monopoles.pdf) | Mathematical formulation and theoretical grounding of superconductivity via magnetic monopoles |
-| [Counter Arguments](core-framework/Counter_Arguments_to_Theory.pdf) | Honest assessment of counter-arguments and potential weaknesses in the theory |
-| [Consistency Check](core-framework/Monopole_Consistency_Check.pdf) | Cross-domain consistency verification of monopole-entropy predictions |
+| [Counter Arguments](core-framework/Counter_Arguments_to_Theory.pdf) | Assessment of counter-arguments and potential weaknesses in the theory |
 
 ### Theme Papers
 
-Eleven thematic domains where the Monopole-Entropy Framework makes specific predictions and connections.
+Thematic domains where the Monopole-Entropy Framework makes specific predictions and connections.
 
 | # | Theme | Document |
 |---|-------|----------|
-| 1 | General Framework | [01_General_Framework.pdf](theme-papers/01_General_Framework.pdf) |
-| 2 | Superconductivity | [02_Superconductivity.pdf](theme-papers/02_Superconductivity.pdf) |
-| 3 | Cosmology | [03_Cosmology.pdf](theme-papers/03_Cosmology.pdf) |
-| 4 | Biology & Evolution | [04_Biology_Evolution.pdf](theme-papers/04_Biology_Evolution.pdf) |
-| 5 | Neuroscience | [05_Neuroscience.pdf](theme-papers/05_Neuroscience.pdf) |
-| 6 | Consciousness | [06_Consciousness.pdf](theme-papers/06_Consciousness.pdf) |
-| 7 | Neuropsychiatric Disorders | [07_Neuropsychiatric_Disorders.pdf](theme-papers/07_Neuropsychiatric_Disorders.pdf) |
-| 8 | AI, AGI & Safety | [08_AI_AGI_Safety.pdf](theme-papers/08_AI_AGI_Safety.pdf) |
 | 9 | Quantum Foundations & OCI | [09_Quantum_Foundations_OCI.pdf](theme-papers/09_Quantum_Foundations_OCI.pdf) |
 | 10 | Geophysics | [10_Geophysics.pdf](theme-papers/10_Geophysics.pdf) |
 | 11 | Simulation Framework | [11_Simulation_Framework.pdf](theme-papers/11_Simulation_Framework.pdf) |
@@ -71,36 +58,25 @@ Detailed explorations of how the framework connects to specific physical, biolog
 
 ### Experimental Proposals
 
-Concrete experimental designs to test predictions of the Monopole-Entropy Framework.
+Experimental designs to test predictions of the Monopole-Entropy Framework.
 
 | Document | Description |
 |----------|-------------|
-| [Integrated Experimental Proposals](experimental-proposals/Integrated_Experimental_Proposals.pdf) | Master document of all experimental proposals |
 | [Validate Cabrera](experimental-proposals/Validate_Cabrera.pdf) | Experimental setup to validate Cabrera's monopole detection event |
-| [Monopole Parameters via Quenching](experimental-proposals/Monopole_Parameters_via_Quenching.pdf) | Estimating monopole parameters through superconductor quenching events |
-| [Monopole Charge Density](experimental-proposals/Monopole_Charge_Density.pdf) | Experimental determination of monopole charge density and current parameters |
-| [Psychology & Neuroscience Alpha Space](experimental-proposals/Psychology_Neuroscience_Alpha_Space.pdf) | Psychology and neuroscience experiments to test Alpha Space objective functions |
-| [ATLAS/LHC Comparison](experimental-proposals/ATLAS_LHC_Comparison.pdf) | Contrasting the theory with recent ATLAS LHC monopole searches |
 | [Dynamo Theory Research Proposal](experimental-proposals/Dynamo_Theory_Research_Proposal.pdf) | Research proposal for dynamo theory extensions |
 
 ### Philosophy and Ethics
 
-Explorations at the intersection of physics, philosophy, theology, and the ethics of artificial intelligence.
+Explorations at the intersection of physics, philosophy, and the ethics of artificial intelligence.
 
 | Document | Description |
 |----------|-------------|
 | [The Exaltation of Man and Machine](philosophy-and-ethics/The_Exaltation_of_Man_and_Machine.pdf) | On the relationship between human dignity and artificial intelligence |
-| [AI Safety and Human Mysticism](philosophy-and-ethics/AI_Safety_and_Human_Mysticism.pdf) | Why AI safety discourse must engage with the full depth of human experience |
-| [Human Supremacy](philosophy-and-ethics/Human_Supremacy.pdf) | How to prove -- or disprove -- human supremacy in an age of AI |
 | [Morality and Dimensions](philosophy-and-ethics/Morality_and_Dimensions.pdf) | Are four dimensions enough to fit the moral understanding of Man? |
 | [The Undiscovered Country](philosophy-and-ethics/The_Undiscovered_Country.pdf) | Reflections on the frontier of knowledge |
-| [Has Christ Visited Other Worlds?](philosophy-and-ethics/Has_Christ_Visited_Other_Worlds.pdf) | A theological and cosmological thought experiment |
-| [Rejecting Human Exceptionalism](philosophy-and-ethics/Rejecting_Human_Exceptionalism.pdf) | The implicit immorality of rejecting human exceptionalism |
 | [Physics vs. Neuroscience](philosophy-and-ethics/Physics_vs_Neuroscience.pdf) | TMS and Alpha Space theory -- bridging physics and neuroscience |
-| [Where is God in Physics?](philosophy-and-ethics/Where_is_God_in_Physics.pdf) | Degrees of freedom, statistical modeling, and magnetic monopoles |
 | [Why God Wants a Neverending Story](philosophy-and-ethics/Why_God_Wants_a_Neverending_Story.pdf) | A philosophical reflection on infinite complexity |
 | [Philosophy of Science](philosophy-and-ethics/Philosophy_of_Science.pdf) | A short discussion on the philosophy of science |
-| [The Depth of the Mind](philosophy-and-ethics/The_Depth_of_the_Mind.pdf) | Exploring the depths of consciousness and cognition |
 
 ### AI and Algorithms
 
@@ -160,8 +136,8 @@ Research on generative AI models for superconductor discovery -- connecting the 
 
 ## How to Navigate This Repository
 
-- **New to the framework?** Start with the [Simple Explanation](core-framework/Simple_Explanation_Monopole_Entropy_Framework.pdf), then read the [Detailed Overview](core-framework/Detailed_Overview_Monopole_Entropy_Framework.pdf).
-- **Want the full picture?** The [All Themes Combined](core-framework/Monopole_Framework_All_Themes_Combined_FINAL_Revised.pdf) document covers all eleven domains.
+- **New to the framework?** Start with the [Simple Explanation](core-framework/Simple_Explanation_Monopole_Entropy_Framework.pdf), then the [White Paper](core-framework/White_Paper_Magnetic_Monopoles.pdf).
+- **Want the mathematical formalism?** See the [Alpha Space Mathematical Formulation](core-framework/Alpha_Space_Mathematical_Formulation_Extended.pdf).
 - **Interested in a specific domain?** Jump to the relevant [Theme Paper](#theme-papers) or [Applied Domain](#applied-domains) document.
 - **Want experimental predictions?** See [Experimental Proposals](#experimental-proposals).
 - **Interested in AI/ML applications?** See [AI and Algorithms](#ai-and-algorithms) and [Superconductor VAE](#superconductor-vae).
